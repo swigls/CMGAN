@@ -1,0 +1,7 @@
+activate_python.sh
+miniconda.sh
+venv
+db
+VCTK-DEMAND
+
+**.swp
